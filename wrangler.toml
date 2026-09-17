@@ -1,0 +1,13 @@
+name = "nextgen-learn"
+compatibility_date = "2026-09-01"
+compatibility_flags = ["nodejs_compat"]
+pages_build_output_dir = "dist"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "nextgen_learn_d1"
+database_id = "YOUR_CLOUDFLARE_D1_DATABASE_ID_HERE"
+migrations_dir = "migrations"
+
+[vars]
+NODE_ENV = "production"

@@ -1,0 +1,6 @@
+{
+  "name": "NextGen Learn",
+  "description": "Premium online video course marketplace with Razorpay payments, Cloudflare Stream protected video access, student tracking, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
